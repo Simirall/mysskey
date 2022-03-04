@@ -1,3 +1,5 @@
+## ⚠️ 現在は後継クライアントの[at Dusk.](https://github.com/sym-dev/at-Dusk)を開発しています。mysskeyはメンテナンスされていません。
+
 # Mysskey - simple Misskey client
 
 Mysskey(まいすきー)は分散型SNS[Misskey](https://github.com/misskey-dev/misskey)のWebクライアントです。Misskey v12.28.0以上のインスタンスで利用可能です。
